@@ -1,7 +1,6 @@
-**📋 Descrição do Projeto**
-Projeto de Cadastro de Clientes desenvolvido em Java Swing, utilizando o padrão de arquitetura MVC (Model - View - Controller) e gerenciado com Maven.
+**` 📋 Descrição do Projeto Cadastro de Clientes`**
 
-📑 Este projeto foi estruturado com base em uma UML simples, criada no Draw.io, que definiu as classes, seus relacionamentos e responsabilidades.
+Projeto de Cadastro de Clientes desenvolvido em Java Swing, utilizando o padrão de arquitetura MVC (Model - View - Controller) e gerenciado com Maven. Este projeto foi estruturado com base em uma UML simples, criada no Draw.io, que definiu as classes, seus relacionamentos e responsabilidades.
 
 **⚙️ Funcionalidades atuais**
 
